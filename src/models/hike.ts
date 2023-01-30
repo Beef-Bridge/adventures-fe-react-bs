@@ -1,6 +1,7 @@
 export default class Hike {
   id: number;
   title: string;
+  picture: string;
   summary: string;
   massif: string;
   activity: string;
@@ -16,6 +17,7 @@ export default class Hike {
   constructor(
     id: number,
     title: string = "title",
+    picture: string = "http...",
     summary: string = "summary",
     massif: string = "massif",
     activity: string = "activity",
@@ -30,6 +32,7 @@ export default class Hike {
   ) {
     this.id = id;
     this.title = title;
+    this.picture = picture;
     this.summary = summary;
     this.massif = massif;
     this.activity = activity;

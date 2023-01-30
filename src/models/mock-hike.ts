@@ -4,6 +4,8 @@ export const HIKES: Hike[] = [
   {
     id: 1,
     title: "Le plateau de La Molière depuis Engins",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Vercors",
     activity: "Randonnée pédestre",
@@ -19,6 +21,8 @@ export const HIKES: Hike[] = [
   {
     id: 2,
     title: "La Grande Sure par le Cul de la Lampe, depuis St-Laurent-du-Pont",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chartreuse",
     activity: "Randonnée pédestre",
@@ -35,6 +39,8 @@ export const HIKES: Hike[] = [
     id: 3,
     title:
       "Mont St-Eynard par la crête du Rocher du Bret, depuis Le Sappey-en-Chartreuse",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chartreuse",
     activity: "Randonnée pédestre",
@@ -50,6 +56,8 @@ export const HIKES: Hike[] = [
   {
     id: 4,
     title: "Le Pic Saint-Michel par le Col de l'Arc",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Vercors",
     activity: "Randonnée pédestre",
@@ -65,6 +73,8 @@ export const HIKES: Hike[] = [
   {
     id: 5,
     title: "Le Mont Joigny par la Pointe du Gorgeat",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chartreuse",
     activity: "Randonnée pédestre",
@@ -80,6 +90,8 @@ export const HIKES: Hike[] = [
   {
     id: 6,
     title: "Une nuit dans les Ecrins au refuge de Chabournéou",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Ecrins",
     activity: "Randonnée pédestre",
@@ -95,6 +107,8 @@ export const HIKES: Hike[] = [
   {
     id: 7,
     title: "Le Grammont par le Col et le lac de Taney",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chablais valaisan",
     activity: "Randonnée pédestre",
@@ -110,6 +124,8 @@ export const HIKES: Hike[] = [
   {
     id: 8,
     title: "Lac Salanfe et col d'Emaney",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chablais valaisan",
     activity: "Randonnée pédestre",
@@ -125,6 +141,8 @@ export const HIKES: Hike[] = [
   {
     id: 9,
     title: "Traces de dinosaures aux lacs Emosson",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chablais valaisan",
     activity: "Randonnée pédestre",
@@ -140,6 +158,8 @@ export const HIKES: Hike[] = [
   {
     id: 10,
     title: "Le Grand Som par la combe des Eparres",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Chartreuse",
     activity: "Randonnée pédestre",
@@ -156,6 +176,8 @@ export const HIKES: Hike[] = [
     id: 11,
     title:
       "Les rochers de la Balme et la tete des Chaudieres, par la Cabane de Carette",
+    picture:
+      "https://www.trekmag.com/media/news/2013/11/Aguila-CHARTREUSE-(6).jpg",
     summary: "",
     massif: "Vercors",
     activity: "Randonnée pédestre",
